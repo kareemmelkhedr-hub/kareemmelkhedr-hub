@@ -1,41 +1,71 @@
-### Hi there 👋, I'm Kareem!
+<h1 align="center">Hi there 👋, I'm Kareem!</h1>
 
-<img align="right" alt="Developer vector" width="350" src="https://user-images.githubusercontent.com/62386900/206019777-a3f2b67e-a0e2-4528-91c6-a6e38f657980.gif">
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/62385900/206019777-a3fb267e-a0e2-4528-916c-a6e38f657980.gif">
 
-I'm a **Telecommunications Engineering Student** based in Ismailia, Egypt. 
-I'm passionate about the intersection of technology, design, and security.
+I'm a **Telecommunications Engineering Student** at the Faculty of Engineering, Suez Canal University.  
+My main specialization is **Cybersecurity & Computer Networks**, and I’m actively expanding my skills in **AI, Image Processing, and Digital Media**.
 
-- 🎓 Studying Communications Engineering.
-- 🎨 Learning and applying **UI/UX Design** principles.
-- 🌐 Exploring **Cybersecurity & Networking** concepts.
-- 🤖 Member of the AI Committee at **IEEE SCUSB**.
-- 🌱 I’m currently learning more about AI and Machine Learning.
+---
 
-<br>
+## 🚀 About Me
+- 🎓 **Telecommunications Engineer** – Faculty of Engineering  
+- 🛡 **Cybersecurity & Networking Enthusiast**  
+- 🤖 **AI Committee Member @ IEEE SCUSB**  
+- 🎨 Learning UI/UX and designing digital experiences  
+- 🔍 Passionate about security, infrastructure, and creative technology  
+- ⚡ Currently improving skills in Python, networking, and penetration testing  
 
-## 🛠️ My Tech Stack & Tools
+---
 
-Here are some of the technologies I'm working with:
+## 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,py,cpp" alt="My Skills" />
+### 🔐 Cybersecurity & Networking
+- Wireshark  
+- Cisco Packet Tracer  
+- Linux (Kali, Ubuntu)  
+- Networking Fundamentals  
+- Firewalls / Routing & Switching  
 
-<br>
+### 🤖 AI / Software Tools
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,vscode,github,linux" />
 
-## 📊 My GitHub Stats
+### 🎨 Media & Creative Tools
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+
+---
+
+## 📘 Recent Project
+### 🧹 **Image Denoising using Spatial Filters**
+
+A project exploring:
+- Gaussian Filter  
+- Median Filter  
+- Bilateral Filter  
+- Proposed Hybrid Filter  
+
+Implemented using **Python + OpenCV + Jupyter Notebook**.
+
+🔗 Project Link:  
+https://github.com/kareemmelkhedr-hub/image-denoising-project
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemmelkhedr-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kareem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemmelkhedr-hub&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Kareem's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kareemmelkhedr-hub&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemmelkhedr-hub&layout=compact&theme=tokyonight&count_private=true" height="170" />
 </p>
 
-<br>
+---
 
-## 📫 Let's Connect!
-
-You can find me on:
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kareem-mohamed-eng" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+---
+
